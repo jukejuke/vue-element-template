@@ -18,6 +18,6 @@ npm run build
 npm run build --report
 ```
 参考文档:
-[https://www.cnblogs.com/GoodHelper/p/8430422.html](https://www.cnblogs.com/GoodHelper/p/8430422.html)
-[http://vuejs-templates.github.io/webpack/](http://vuejs-templates.github.io/webpack/)
-[http://vuejs.github.io/vue-loader](http://vuejs.github.io/vue-loader)
+1. [https://www.cnblogs.com/GoodHelper/p/8430422.html](https://www.cnblogs.com/GoodHelper/p/8430422.html)
+2. [http://vuejs-templates.github.io/webpack/](http://vuejs-templates.github.io/webpack/)
+3. [http://vuejs.github.io/vue-loader](http://vuejs.github.io/vue-loader)
