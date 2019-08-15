@@ -1,6 +1,7 @@
 # vue-element-template
 
 > A Vue.js project
+- [后端工程](https://github.com/jukejuke/springboot2-vuebackgroud-template)
 
 ## Build Setup
 
@@ -17,7 +18,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-- [后端工程](https://github.com/jukejuke/springboot2-vuebackgroud-template)
 
 参考文档:
 1. [https://www.cnblogs.com/GoodHelper/p/8430422.html](https://www.cnblogs.com/GoodHelper/p/8430422.html)
